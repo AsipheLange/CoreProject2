@@ -7,6 +7,9 @@ The back-end handles user login, data validation, database queries, and error ha
 An existing front-end website was connected to the back-end so users can interact with the system. The project was managed and documented using GitHub, which allowed the team to work together and track changes.
 Each team member contributed to different parts of the project. The final system is easy to use, secure, and clearly shows the value of the solution.
 
+Objective
+The objective was a secure and scalable back-end system integrated with the existing front-end HR application, enabling real database-driven management of employee, payroll, and attendance data with proper data integrity and error handling, while demonstrating the ability to design suitable data architecture, implement secure server-side logic, integrate front-end and back-end systems, and collaborate effectively with a development team.
+
 DUTIES(Backend)
 
 Joshua was responsible for creating and managing the server-side routes and API endpoints and back-end logic.
